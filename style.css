@@ -4,7 +4,7 @@ body {
   color: #2E6B91;
   font-size: 1em;
   line-height: 1.6;
-  background-image: https://images.pexels.com/photos/1556796/pexels-photo-1556796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260;
+  background-image: url(images/surf.jpeg);
   background-size: cover;
 }
 h1, h2 {
