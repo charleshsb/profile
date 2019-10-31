@@ -12,6 +12,7 @@ h1, h2 {
   font-size: 2em;
   line-height: 2;
   color : #32CCFF;
+  margin: 0;
 }
 
 a{
