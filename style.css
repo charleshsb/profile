@@ -6,6 +6,7 @@ body {
   line-height: 1.6;
   background-image: url(images/surf.jpeg);
   background-size: cover;
+  background-position: center;
 }
 h1, h2 {
   font-family: 'DM Serif Display', serif;
@@ -47,11 +48,12 @@ a:hover{
 .container {
   margin: 0 auto;
   padding: 10px;
+  width: 700px;
 }
 
 .card {
   background-color: #CDE7FF;
-  padding: 1px;
+  padding: 5px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
   margin: 20px 20px;
